@@ -9,7 +9,7 @@ As of now planned helpful features include:
   - Downloading files for classes
     - By class, module, or for all classes you are enrolled in
     - Dowloading files in an easy to navagte directory structure:
-    User --|
+```    User --|
            | -- Class1 
            |      | -- Module 1
            |      |      | -- file 1
@@ -19,7 +19,7 @@ As of now planned helpful features include:
            |              
            | -- Class2
                   | -- Module 3
-                         | -- file 4
+                         | -- file 4```
   - Downloading calendar
     - exporting to Google and Outlook
     - exporting summery of due dates in text format
